@@ -1,2 +1,2 @@
 # GIT
-Learning GIT locat repository
+Learning GIT local repository
